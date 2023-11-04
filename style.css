@@ -1,0 +1,38 @@
+ /*color name  */
+ /* h1{
+    color: red;
+} */
+
+/* hex code */
+/* h1{
+    color: #039403;
+} */
+
+
+/* RGB */
+/* h1{
+    color: rgb(153, 0, 66);
+} */
+
+/* background color rgp*/
+/* body{
+    background-color: #895489;
+} */
+ /* background color */
+ /* h1{
+    color: red;
+ } */ 
+/* div{
+     background-color: wheat;
+     color: red;
+} */
+
+/* opacity */
+/* #div1{
+    background-color: green;
+    opacity: 0.1;
+} */
+
+img{
+    opacity: 0.5;
+}
